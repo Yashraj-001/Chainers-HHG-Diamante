@@ -14,8 +14,8 @@ Git
 Chainers Diamante SDK (download or install via npm)
 # Steps
 # Clone the repository:
-git clone https://github.com/yourusername/Chainers-Diamante-SDK-Integration.git
-cd Chainers-Diamante-SDK-Integration
+git clone https://github.com/Yashraj-001/Chainers-HHG-Diamante.git
+cd Chainers-HHG-Diamante
 # Install dependencies:
 
 npm install
