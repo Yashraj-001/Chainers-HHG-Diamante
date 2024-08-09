@@ -60,6 +60,3 @@ For any inquiries or support, please contact the team at support@chainers.com.
 
 Responsive Multi-Pages Dashboard using Pure Html , CSS and js
 
-# Demo:
-
-https://thunderboltforever.github.io/Dashboard/
